@@ -2,18 +2,6 @@
 
 This repository contains a comprehensive guide and Jupyter notebook for fine-tuning RF-DETR (Real-time Detection Transformer) on custom datasets. RF-DETR is a state-of-the-art object detection model that combines the speed of YOLO with the accuracy of DETR transformers.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Dataset Preparation](#dataset-preparation)
-- [Usage](#usage)
-- [Training Configuration](#training-configuration)
-- [Results and Evaluation](#results-and-evaluation)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
